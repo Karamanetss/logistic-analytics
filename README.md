@@ -33,4 +33,4 @@ Built with Python and Pandas, charts in Matplotlib, written in VS Code.
 
 ## Notes
 
-This is a learning project. The cost models are deliberately simple — I left out depreciation, insurance, tolls and overhead because the data isn't there for them, so the absolute numbers run high. The comparisons between routes and between drivers still hold up though, and that's what the analysis is really about.
+This is a learning project. The cost models are deliberately simple I left out depreciation, insurance, tolls and overhead because the data isn't there for them, so the absolute numbers run high. The comparisons between routes and between drivers still hold up though, and that's what the analysis is really about.
