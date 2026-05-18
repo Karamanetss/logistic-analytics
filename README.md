@@ -23,7 +23,7 @@ Each section in the notebook ends with a fuller writeup findings, what it means 
 ## Running it
 
 ```bash
-git clone https://github.com/Karamanetss/trucking-operations-analytics
+git clone https://github.com/Karamanetss/logistic-analytics
 pip install -r requirements.txt
 ```
 
