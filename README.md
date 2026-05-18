@@ -26,9 +26,6 @@ Each section in the notebook ends with a fuller writeup findings, what it means 
 git clone https://github.com/Karamanetss/logistic-analytics
 pip install -r requirements.txt
 ```
-
-Download the CSVs from the Kaggle link and drop them in `/data/`, then open `notebooks/eda_trucking.ipynb`.
-
 Built with Python and Pandas, charts in Matplotlib, written in VS Code.
 
 ## Notes
