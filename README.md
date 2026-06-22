@@ -6,7 +6,7 @@ I come from freight forwarding (worked as Speditionskaufmann in Hamburg), and I'
 
 ## The data
 
-It's the [Logistics Operations Database](https://www.kaggle.com/datasets/yogape/logistics-operations-database) from Kaggle. 14 tables, around 85,000 trips, covering 2022–2024. The main ones I used were trips, loads, delivery_events, fuel_purchases, routes, safety_incidents and driver_monthly_metrics. The rest are in the notebook.
+It's the [Logistics Operations Database](https://www.kaggle.com/datasets/yogape/logistics-operations-database) from Kaggle. 14 tables, around 85,000 trips, covering 2022-2024. The main ones I used were trips, loads, delivery_events, fuel_purchases, routes, safety_incidents and driver_monthly_metrics. The rest are in the notebook.
 
 It's a synthetic dataset, which matters some variables turned out almost perfectly uniform, which you wouldn't see in real operations. I've flagged that where it came up.
 
